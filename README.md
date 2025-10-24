@@ -1,10 +1,15 @@
-<h1 align="center">👋 Welcome to My GitHub</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5500&pause=1500&color=0CF2E8&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Automation+%26+Artificial+Intelligence+Focus;Arch+Linux+%26+BSPWM+Enthusiast+%7C+Minimalist+Workflow" alt="Typing SVG" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF4D8B&height=210&text=Welcome%20to%20my%20profile%20&fontAlign=50&fontAlignY=40&fontColor=000000&fontSize=45&animation=fadeIn"
+    alt="Welcome banner"
+  />
 </p>
 
-<h3 align="center">Data Analyst | Python, SQL, Power BI | Data Visualization | Turning Data into Insights</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=800&color=c03571&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Python,+SQL,+Power+BI+%7C+Data+Visualization;Automation+%26+Artificial+Intelligence+Focus;Continuous+Learner+%7C+Over+6+years+of+developing+experience;Arch+Linux+%26+BSPWM+Enthusiast+%7C+Minimalist+Workflow" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -42,8 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="left" style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
-
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=monojitbgit&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117"
     alt="GitHub Stats"
@@ -57,16 +61,15 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=monojitbgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF4D8B&ring=FF4D8B&fire=FF4D8B&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF4D8B&sideLabels=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
     height="200"
-    width="95%"
+    style="flex: 1; min-width: 320px;"
   />
 </div>
-
 <div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitbgit&layout=compact&hide_border=true&card_width=340&langs_count=6&title_color=FF4D8B&text_color=FFFFFF&bg_color=0D1117"
     alt="Top Languages"
     height="200"
-    style="flex: 1; min-width: 260px;"
+    style="flex: 1; min-width: 320px;"
   />
 </div>
 
@@ -88,7 +91,7 @@
 </p>
 
 ---
-
+<!--
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -98,5 +101,4 @@
     width="1000"
   />
 </p>
-
----
+-->
