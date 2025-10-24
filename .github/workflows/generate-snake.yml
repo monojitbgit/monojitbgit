@@ -1,0 +1,52 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write          # allow push to output branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Generate snake (dark + light, compact)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: monojitbgit
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
+          palette: github-dark
+          color_snake: "#C084FC"       # purple snake (Tokyonight)
+          color_dots: "#30A14E"        # dark green commits
+          color_empty: "#2F343F"       # grey background
+          resolution_x: 820
+          resolution_y: 173
+
+      - name: 🧠 Verify generated files
+        run: |
+          echo "Generated files:"
+          ls -l dist
+
+      - name: 🚀 Push generated SVGs to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          mkdir pushdir
+          cp dist/*.svg pushdir/
+          cd pushdir
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "update snake animation" || echo "No changes to commit"
+          git branch -M output
+          git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push -f origin output
