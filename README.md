@@ -1,0 +1,102 @@
+<h1 align="center">👋 Welcome to My GitHub</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5500&pause=1500&color=0CF2E8&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Automation+%26+Artificial+Intelligence+Focus;Arch+Linux+%26+BSPWM+Enthusiast+%7C+Minimalist+Workflow" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Data Analyst | Python, SQL, Power BI | Data Visualization | Turning Data into Insights</h3>
+
+---
+
+### 🧑‍💻 About Me
+- I specialize in **data analysis, visualization, and business intelligence**, transforming raw data into actionable insights.
+- Experienced in building **data-driven dashboards and automated reports** that support informed decision-making.
+- Passionate about **development, automation, and artificial intelligence**, and always exploring new tools to make workflows smarter.
+<br><br>
+- I have a personal passion for **customizing my Arch Linux setup** and experimenting with **BSPWM**, crafting efficient and minimal system environments purely for the fun of it. 🐧  
+
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left" style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=monojitbgit&show_icons=true&hide_border=true&count_private=true&title_color=FF4D8B&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117"
+    alt="GitHub Stats"
+    height="200"
+    style="flex: 1; min-width: 320px;"
+  />
+</div>
+
+<div align="right">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=monojitbgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF4D8B&ring=FF4D8B&fire=FF4D8B&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF4D8B&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
+    height="200"
+    width="95%"
+  />
+</div>
+
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monojitbgit&layout=compact&hide_border=true&card_width=340&langs_count=6&title_color=FF4D8B&text_color=FFFFFF&bg_color=0D1117"
+    alt="Top Languages"
+    height="200"
+    style="flex: 1; min-width: 260px;"
+  />
+</div>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/monojitbgit/monojitbgit/output/snake-dark.svg" width="820" height="173" />
+  </picture>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=monojitbgit&bg_color=0D1117&color=FFFFFF&line=FF4D8B&point=00FFFF&area_color=FF4D8B33&hide_border=true&area=true&hide_title=false"
+    alt="Activity Graph"
+    width="1000"
+  />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=monojitbgit&theme=tokyonight&margin-w=20&margin-h=20&row=1&column=6" 
+    alt="GitHub Trophies" 
+    width="1000"
+  />
+</p>
+
+---
