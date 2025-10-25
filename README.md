@@ -34,6 +34,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -43,9 +44,9 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 <br><br><br>
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,r,aws,gcp,azure,atom,anaconda)
+![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,js,java,r,aws,gcp,azure,atom,sublime)
 <br>
-![Skills](https://skillicons.dev/icons?i=vscode,linux,selenium,pytorch,arch,tensorflow,github,vercel)
+![Skills](https://skillicons.dev/icons?i=anaconda,vscode,linux,selenium,pytorch,arch,tensorflow,github,vercel,bash,mongodb,vim,neovim)
 </p>
 
 ---
